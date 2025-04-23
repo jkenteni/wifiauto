@@ -2,12 +2,11 @@
 
 # ==========================================
 # WIFI-AUTOCONNECT
-# Script para conectar Wi-Fi no BlackArch Slim
+# Script para conectar Wi-Fi no BlackArch FullIso
 # Projeto: Karkov
 # Créditos: Tropa da Turquia | Dev: Kenteni Alves | GitHub: @jkenteni
 # ==========================================
 
-# LOGO ASCII
 echo """
  ██ ▄█▀▄▄▄       ██▀███   ██ ▄█▀ ▒█████   ██▒   █▓      █     █░ ██▓  █████▒██▓
  ██▄█▒▒████▄    ▓██ ▒ ██▒ ██▄█▒ ▒██▒  ██▒▓██░   █▒     ▓█░ █ ░█░▓██▒▓██   ▒▓██▒
@@ -23,7 +22,7 @@ echo """
     Créditos: Tropa da Turquia | Dev: Kenteni Alves | GitHub: @jkenteni
 """
 
-# CONFIGURAÇÃO - Edite esses dois:
+# CONFIGURAÇÃO - Edite:
 SSID="NOME_DA_REDE"
 
 
